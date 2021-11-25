@@ -1,0 +1,6 @@
+customhost = "admin.cqttrznpslzs.us-east-2.rds.amazonaws.com"
+customuser = "admin"
+custompass = "ez76qchq"
+customdb = "admin"
+custombucket = "addfuncionario"
+customregion = "us-east-2"
